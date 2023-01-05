@@ -1,0 +1,27 @@
+C:\Programacion por capas C#\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Programacion por capas C#\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Programacion por capas C#\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Programacion por capas C#\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Programacion por capas C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Programacion por capas C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Programacion por capas C#\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Programacion por capas C#\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Programacion por capas C#\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaNegocio\obj\Debug\CapaNegocio.pdb

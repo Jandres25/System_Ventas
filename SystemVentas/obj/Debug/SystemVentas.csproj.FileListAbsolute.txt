@@ -1,0 +1,89 @@
+C:\Programacion por capas C#\SystemVentas\bin\Debug\SystemVentas.exe.config
+C:\Programacion por capas C#\SystemVentas\bin\Debug\SystemVentas.exe
+C:\Programacion por capas C#\SystemVentas\bin\Debug\SystemVentas.pdb
+C:\Programacion por capas C#\SystemVentas\bin\Debug\CapaPresentacion.dll
+C:\Programacion por capas C#\SystemVentas\bin\Debug\CapaNegocio.dll
+C:\Programacion por capas C#\SystemVentas\bin\Debug\CapaDatos.dll
+C:\Programacion por capas C#\SystemVentas\bin\Debug\CapaPresentacion.pdb
+C:\Programacion por capas C#\SystemVentas\bin\Debug\CapaNegocio.pdb
+C:\Programacion por capas C#\SystemVentas\bin\Debug\CapaDatos.pdb
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.csproj.AssemblyReference.cache
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.Properties.Resources.resources
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.csproj.GenerateResource.cache
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.csproj.CoreCompileInputs.cache
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.csproj.CopyComplete
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.exe
+C:\Programacion por capas C#\SystemVentas\obj\Debug\SystemVentas.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\SystemVentas.exe.config
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\SystemVentas.exe
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\SystemVentas.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaDatos.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.csproj.AssemblyReference.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.Properties.Resources.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.csproj.GenerateResource.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.csproj.CoreCompileInputs.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.csproj.CopyComplete
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.exe
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\obj\Debug\SystemVentas.FrmPrincipal.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\SystemVentas\bin\Debug\MaterialSkin.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\SystemVentas.exe.config
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\SystemVentas.exe
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\SystemVentas.pdb
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaPresentacion.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\MaterialSkin.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaNegocio.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaDatos.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaPresentacion.pdb
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaPresentacion.dll.config
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaNegocio.pdb
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\CapaDatos.pdb
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.csproj.AssemblyReference.cache
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.FrmPrincipal.resources
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.Properties.Resources.resources
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.csproj.GenerateResource.cache
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.csproj.CoreCompileInputs.cache
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.csproj.CopyComplete
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.exe
+C:\Proyecto Desarrollo de sistemas 1\SystemVentas\obj\Debug\SystemVentas.pdb

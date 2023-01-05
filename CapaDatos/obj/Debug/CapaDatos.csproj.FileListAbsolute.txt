@@ -1,0 +1,18 @@
+C:\Programacion por capas C#\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Programacion por capas C#\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Programacion por capas C#\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Programacion por capas C#\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Programacion por capas C#\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Programacion por capas C#\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaDatos\obj\Debug\CapaDatos.pdb

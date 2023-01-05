@@ -1,0 +1,125 @@
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Programacion por capas C#\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Programacion por capas C#\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_ingreso.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoria_Articulo.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Jose Andres Lopez\OneDrive - Universidad Privada Domingo Savio\Documentos\Modulos de la universidad\Desarollo de sistemas 1\Archivos\Programacion por capas C #\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\stdole.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoria_Articulo.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_ingreso.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReptoArticulos.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReptoStockArticulos.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReptoProveedores.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmStockArticulos.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReptoFactura.resources
+C:\Proyecto Desarrollo de sistemas 1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
